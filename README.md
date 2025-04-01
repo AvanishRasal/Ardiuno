@@ -24,7 +24,7 @@ Connect the pushbuttons to the Arduino as follows:
 
 !Pushbutton Placement
 
-As shown image below are connections made ![Alt text](image.jpg?raw=true "BreadBoard")
+As shown image below are connections made ![This is the image](image.jpg?raw=true "BreadBoard")
 
 ### Connections
 
