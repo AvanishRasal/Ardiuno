@@ -22,8 +22,6 @@ Connect the pushbuttons to the Arduino as follows:
 
 ## Pushbutton Placement
 
-!Pushbutton Placement
-
 As shown image below are connections made ![This is the image](image.jpg?raw=true "BreadBoard")
 
 ### Connections
@@ -61,7 +59,7 @@ void setup() {
 // the loop routine runs over and over again forever:
 void loop() {
   // read the input pin:
-  int leftbuttonState = digitalRead(Leftbutton);
+  int leftbuttonState = digitalRead(Loweftbutton);
   int rightbuttonState = digitalRead(Rightbutton); 
   // print out the state of the button
   if (leftbuttonState == 1)
@@ -73,5 +71,7 @@ void loop() {
   }
   delay(100);  // delay in between reads for stability
 }
+```
 
+## How it works
 ![This is the image](mouseworks.mp4?raw=true "working")
