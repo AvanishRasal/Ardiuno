@@ -74,4 +74,5 @@ void loop() {
 ```
 
 ## How it works
-![This is the image](mouseworks.mp4?raw=true "working")
+Video shows how it works
+![Mouse Emulator Video](mouseworks.mp4?raw=true "working")
