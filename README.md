@@ -75,4 +75,5 @@ void loop() {
 
 ## How it works
 Video shows how it works
-[![Watch the video](mouseworks.mp4)
+[Watch the video](https://github.com/AvanishRasal/Ardiuno/blob/main/mouseworks.mp4)
+
