@@ -75,4 +75,4 @@ void loop() {
 
 ## How it works
 Video shows how it works
-![Mouse Emulator Video](mouseworks.mp4?raw=true "working")
+[![Watch the video](mouseworks.mp4)
