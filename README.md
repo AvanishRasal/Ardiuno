@@ -73,3 +73,5 @@ void loop() {
   }
   delay(100);  // delay in between reads for stability
 }
+
+![This is the image](mouseworks.mp4?raw=true "working")
