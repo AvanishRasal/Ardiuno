@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Hi! I'm 9 years old and I'm learning basic programming using an Arduino Uno board. This project emulates mouse button presses using pushbuttons connected to the Arduino. When you press the buttons, the Arduino sends messages to the computer.
+Hi! I'm learning basic programming of Arduino Uno board. 
+
+This project emulates mouse button presses using pushbuttons connected to the Arduino. When you press the buttons, the Arduino sends messages to the computer.
 
 ## Components Needed
 
@@ -22,6 +24,8 @@ Connect the pushbuttons to the Arduino as follows:
 
 !Pushbutton Placement
 
+As shown image () below are connections made
+
 ### Connections
 
 1. **Left Button**:
@@ -36,7 +40,7 @@ Connect the pushbuttons to the Arduino as follows:
    - Connect the 5V pin on the Arduino to the positive rail on the breadboard.
    - Connect the GND pin on the Arduino to the negative rail on the breadboard.
 
-## Code Explanation
+## Code Explanation 
 
 Here's the code for the project:
 
