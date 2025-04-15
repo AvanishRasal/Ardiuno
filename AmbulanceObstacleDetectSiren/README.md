@@ -117,6 +117,11 @@ void playPoliceSiren() {
 }
 ```
 
+## How it works
+Video shows how it works
+[![Watch the video](https://www.youtube.com/shorts/NL8HWB2Sjic](https://www.youtube.com/shorts/NL8HWB2Sjic)
+
+
 ## 🔧 Made with Arduino
 
 This project was built using the **Arduino platform**, making use of its simple hardware control capabilities to create a more **eco-friendly and smart ambulance system**. Perfect for real-world applications in urban traffic or smart cities. 🚑✨
